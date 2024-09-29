@@ -1,0 +1,186 @@
+UF,Nome_UF,Região Geográfica Intermediária,Nome Região Geográfica Intermediária,Região Geográfica Imediata,Nome Região Geográfica Imediata,Mesorregião Geográfica,Nome_Mesorregião,Microrregião Geográfica,Nome_Microrregião,Município,Código Município Completo,Nome_Município
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,54,2600054,Abreu e Lima
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,104,2600104,Afogados da Ingazeira
+26,Pernambuco,2604,Petrolina,260015,Petrolina,2,São Francisco Pernambucano,5,Petrolina,203,2600203,Afrânio
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,302,2600302,Agrestina
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,401,2600401,Água Preta
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,7,Vale do Ipanema,500,2600500,Águas Belas
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,609,2600609,Alagoinha
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,708,2600708,Aliança
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,807,2600807,Altinho
+26,Pernambuco,2601,Recife,260018,Escada - Ribeirão,4,Mata Pernambucana,15,Mata Meridional Pernambucana,906,2600906,Amaraji
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,1003,2601003,Angelim
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,16,Itamaracá,1052,2601052,Araçoiaba
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,1102,2601102,Araripina
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,1,Sertão Pernambucano,4,Sertão do Moxotó,1201,2601201,Arcoverde
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,1300,2601300,Barra de Guabiraba
+26,Pernambuco,2601,Recife,260007,Barreiros - Sirinhaém,4,Mata Pernambucana,15,Mata Meridional Pernambucana,1409,2601409,Barreiros
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,1508,2601508,Belém de Maria
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,2,São Francisco Pernambucano,6,Itaparica,1607,2601607,Belém do São Francisco
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,1706,2601706,Belo Jardim
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,4,Sertão do Moxotó,1805,2601805,Betânia
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,1904,2601904,Bezerros
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,2001,2602001,Bodocó
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,2100,2602100,Bom Conselho
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,2209,2602209,Bom Jardim
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,2308,2602308,Bonito
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,2407,2602407,Brejão
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,2506,2602506,Brejinho
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,2605,2602605,Brejo da Madre de Deus
+26,Pernambuco,2601,Recife,260006,Carpina,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,2704,2602704,Buenos Aires
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,3,Agreste Pernambucano,7,Vale do Ipanema,2803,2602803,Buíque
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,18,Suape,2902,2602902,Cabo de Santo Agostinho
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,2,São Francisco Pernambucano,5,Petrolina,3009,2603009,Cabrobó
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,3108,2603108,Cachoeirinha
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,3207,2603207,Caetés
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,3306,2603306,Calçado
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,3,Pajeú,3405,2603405,Calumbi
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,3454,2603454,Camaragibe
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,3504,2603504,Camocim de São Félix
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,3603,2603603,Camutanga
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,3702,2603702,Canhotinho
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,8,Vale do Ipojuca,3801,2603801,Capoeiras
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,3900,2603900,Carnaíba
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,2,São Francisco Pernambucano,6,Itaparica,3926,2603926,Carnaubeira da Penha
+26,Pernambuco,2601,Recife,260006,Carpina,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,4007,2604007,Carpina
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,4106,2604106,Caruaru
+26,Pernambuco,2601,Recife,260008,Surubim,3,Agreste Pernambucano,9,Alto Capibaribe,4155,2604155,Casinhas
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,4205,2604205,Catende
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,1,Sertão Pernambucano,2,Salgueiro,4304,2604304,Cedro
+26,Pernambuco,2601,Recife,260005,Vitória de Santo Antão,4,Mata Pernambucana,14,Vitória de Santo Antão,4403,2604403,Chã de Alegria
+26,Pernambuco,2602,Caruaru,260009,Caruaru,4,Mata Pernambucana,14,Vitória de Santo Antão,4502,2604502,Chã Grande
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,4601,2604601,Condado
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,4700,2604700,Correntes
+26,Pernambuco,2601,Recife,260018,Escada - Ribeirão,4,Mata Pernambucana,15,Mata Meridional Pernambucana,4809,2604809,Cortês
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,10,Médio Capibaribe,4908,2604908,Cumaru
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,5004,2605004,Cupira
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,1,Sertão Pernambucano,4,Sertão do Moxotó,5103,2605103,Custódia
+26,Pernambuco,2604,Petrolina,260015,Petrolina,2,São Francisco Pernambucano,5,Petrolina,5152,2605152,Dormentes
+26,Pernambuco,2601,Recife,260018,Escada - Ribeirão,4,Mata Pernambucana,15,Mata Meridional Pernambucana,5202,2605202,Escada
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,5301,2605301,Exu
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,5400,2605400,Feira Nova
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,19,Fernando de Noronha,5459,2605459,Fernando de Noronha
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,5509,2605509,Ferreiros
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,3,Pajeú,5608,2605608,Flores
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,2,São Francisco Pernambucano,6,Itaparica,5707,2605707,Floresta
+26,Pernambuco,2601,Recife,260008,Surubim,3,Agreste Pernambucano,9,Alto Capibaribe,5806,2605806,Frei Miguelinho
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,5905,2605905,Gameleira
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,6002,2606002,Garanhuns
+26,Pernambuco,2601,Recife,260005,Vitória de Santo Antão,4,Mata Pernambucana,14,Vitória de Santo Antão,6101,2606101,Glória do Goitá
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,6200,2606200,Goiana
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,6309,2606309,Granito
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,6408,2606408,Gravatá
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,6507,2606507,Iati
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,1,Sertão Pernambucano,4,Sertão do Moxotó,6606,2606606,Ibimirim
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,6705,2606705,Ibirajuba
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,16,Itamaracá,6804,2606804,Igarassu
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,6903,2606903,Iguaracy
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,16,Itamaracá,7604,2607604,Ilha de Itamaracá
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,1,Sertão Pernambucano,4,Sertão do Moxotó,7000,2607000,Inajá
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,7109,2607109,Ingazeira
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,18,Suape,7208,2607208,Ipojuca
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,7307,2607307,Ipubi
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,2,São Francisco Pernambucano,6,Itaparica,7406,2607406,Itacuruba
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,3,Agreste Pernambucano,7,Vale do Ipanema,7505,2607505,Itaíba
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,7653,2607653,Itambé
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,7703,2607703,Itapetim
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,16,Itamaracá,7752,2607752,Itapissuma
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,7802,2607802,Itaquitinga
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,7901,2607901,Jaboatão dos Guararapes
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,7950,2607950,Jaqueira
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,8008,2608008,Jataúba
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,2,São Francisco Pernambucano,6,Itaparica,8057,2608057,Jatobá
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,8107,2608107,João Alfredo
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,8206,2608206,Joaquim Nabuco
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,8255,2608255,Jucati
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,8305,2608305,Jupi
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,8404,2608404,Jurema
+26,Pernambuco,2601,Recife,260006,Carpina,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,8503,2608503,Lagoa de Itaenga
+26,Pernambuco,2601,Recife,260006,Carpina,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,8453,2608453,Lagoa do Carro
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,8602,2608602,Lagoa do Ouro
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,8701,2608701,Lagoa dos Gatos
+26,Pernambuco,2604,Petrolina,260015,Petrolina,2,São Francisco Pernambucano,5,Petrolina,8750,2608750,Lagoa Grande
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,8800,2608800,Lajedo
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,8909,2608909,Limoeiro
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,9006,2609006,Macaparana
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,9105,2609105,Machados
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,1,Sertão Pernambucano,4,Sertão do Moxotó,9154,2609154,Manari
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,9204,2609204,Maraial
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,2,Salgueiro,9303,2609303,Mirandiba
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,14303,2614303,Moreilândia
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,9402,2609402,Moreno
+26,Pernambuco,2601,Recife,260006,Carpina,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,9501,2609501,Nazaré da Mata
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,9600,2609600,Olinda
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,9709,2609709,Orobó
+26,Pernambuco,2604,Petrolina,260015,Petrolina,2,São Francisco Pernambucano,5,Petrolina,9808,2609808,Orocó
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,9907,2609907,Ouricuri
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,10004,2610004,Palmares
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,10103,2610103,Palmeirina
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,10202,2610202,Panelas
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,10301,2610301,Paranatama
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,1,Sertão Pernambucano,2,Salgueiro,10400,2610400,Parnamirim
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,10509,2610509,Passira
+26,Pernambuco,2601,Recife,260001,Recife,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,10608,2610608,Paudalho
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,10707,2610707,Paulista
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,3,Agreste Pernambucano,7,Vale do Ipanema,10806,2610806,Pedra
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,10905,2610905,Pesqueira
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,2,São Francisco Pernambucano,6,Itaparica,11002,2611002,Petrolândia
+26,Pernambuco,2604,Petrolina,260015,Petrolina,2,São Francisco Pernambucano,5,Petrolina,11101,2611101,Petrolina
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,11200,2611200,Poção
+26,Pernambuco,2601,Recife,260005,Vitória de Santo Antão,4,Mata Pernambucana,14,Vitória de Santo Antão,11309,2611309,Pombos
+26,Pernambuco,2601,Recife,260018,Escada - Ribeirão,4,Mata Pernambucana,15,Mata Meridional Pernambucana,11408,2611408,Primavera
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,4,Mata Pernambucana,15,Mata Meridional Pernambucana,11507,2611507,Quipapá
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,11533,2611533,Quixaba
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,11606,2611606,Recife
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,11705,2611705,Riacho das Almas
+26,Pernambuco,2601,Recife,260018,Escada - Ribeirão,4,Mata Pernambucana,15,Mata Meridional Pernambucana,11804,2611804,Ribeirão
+26,Pernambuco,2601,Recife,260007,Barreiros - Sirinhaém,4,Mata Pernambucana,15,Mata Meridional Pernambucana,11903,2611903,Rio Formoso
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,12000,2612000,Sairé
+26,Pernambuco,2601,Recife,260004,Limoeiro,3,Agreste Pernambucano,10,Médio Capibaribe,12109,2612109,Salgadinho
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,1,Sertão Pernambucano,2,Salgueiro,12208,2612208,Salgueiro
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,12307,2612307,Saloá
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,12406,2612406,Sanharó
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,12455,2612455,Santa Cruz
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,3,Pajeú,12471,2612471,Santa Cruz da Baixa Verde
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,9,Alto Capibaribe,12505,2612505,Santa Cruz do Capibaribe
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,12554,2612554,Santa Filomena
+26,Pernambuco,2604,Petrolina,260015,Petrolina,2,São Francisco Pernambucano,5,Petrolina,12604,2612604,Santa Maria da Boa Vista
+26,Pernambuco,2601,Recife,260008,Surubim,3,Agreste Pernambucano,9,Alto Capibaribe,12703,2612703,Santa Maria do Cambucá
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,12802,2612802,Santa Terezinha
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,12901,2612901,São Benedito do Sul
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,13008,2613008,São Bento do Una
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,8,Vale do Ipojuca,13107,2613107,São Caitano
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,13206,2613206,São João
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,12,Brejo Pernambucano,13305,2613305,São Joaquim do Monte
+26,Pernambuco,2601,Recife,260007,Barreiros - Sirinhaém,4,Mata Pernambucana,15,Mata Meridional Pernambucana,13404,2613404,São José da Coroa Grande
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,2,Salgueiro,13503,2613503,São José do Belmonte
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,13602,2613602,São José do Egito
+26,Pernambuco,2601,Recife,260001,Recife,5,Metropolitana de Recife,17,Recife,13701,2613701,São Lourenço da Mata
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,3,Agreste Pernambucano,10,Médio Capibaribe,13800,2613800,São Vicente Férrer
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,3,Pajeú,13909,2613909,Serra Talhada
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,1,Sertão Pernambucano,2,Salgueiro,14006,2614006,Serrita
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,1,Sertão Pernambucano,4,Sertão do Moxotó,14105,2614105,Sertânia
+26,Pernambuco,2601,Recife,260007,Barreiros - Sirinhaém,4,Mata Pernambucana,15,Mata Meridional Pernambucana,14204,2614204,Sirinhaém
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,14402,2614402,Solidão
+26,Pernambuco,2601,Recife,260008,Surubim,3,Agreste Pernambucano,9,Alto Capibaribe,14501,2614501,Surubim
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,14600,2614600,Tabira
+26,Pernambuco,2602,Caruaru,260012,Belo Jardim ¿ Pesqueira,3,Agreste Pernambucano,8,Vale do Ipojuca,14709,2614709,Tacaimbó
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,2,São Francisco Pernambucano,6,Itaparica,14808,2614808,Tacaratu
+26,Pernambuco,2601,Recife,260007,Barreiros - Sirinhaém,4,Mata Pernambucana,15,Mata Meridional Pernambucana,14857,2614857,Tamandaré
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,9,Alto Capibaribe,15003,2615003,Taquaritinga do Norte
+26,Pernambuco,2602,Caruaru,260010,Garanhuns,3,Agreste Pernambucano,11,Garanhuns,15102,2615102,Terezinha
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,2,São Francisco Pernambucano,5,Petrolina,15201,2615201,Terra Nova
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,15300,2615300,Timbaúba
+26,Pernambuco,2602,Caruaru,260009,Caruaru,3,Agreste Pernambucano,9,Alto Capibaribe,15409,2615409,Toritama
+26,Pernambuco,2601,Recife,260006,Carpina,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,15508,2615508,Tracunhaém
+26,Pernambuco,2604,Petrolina,260016,Araripina,1,Sertão Pernambucano,1,Araripina,15607,2615607,Trindade
+26,Pernambuco,2603,Serra Talhada,260013,Serra Talhada,1,Sertão Pernambucano,3,Pajeú,15706,2615706,Triunfo
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,3,Agreste Pernambucano,7,Vale do Ipanema,15805,2615805,Tupanatinga
+26,Pernambuco,2603,Serra Talhada,260014,Afogados da Ingazeira,1,Sertão Pernambucano,3,Pajeú,15904,2615904,Tuparetama
+26,Pernambuco,2602,Caruaru,260011,Arcoverde,3,Agreste Pernambucano,7,Vale do Ipanema,16001,2616001,Venturosa
+26,Pernambuco,2604,Petrolina,260017,Salgueiro,1,Sertão Pernambucano,2,Salgueiro,16100,2616100,Verdejante
+26,Pernambuco,2601,Recife,260008,Surubim,3,Agreste Pernambucano,9,Alto Capibaribe,16183,2616183,Vertente do Lério
+26,Pernambuco,2601,Recife,260008,Surubim,3,Agreste Pernambucano,9,Alto Capibaribe,16209,2616209,Vertentes
+26,Pernambuco,2601,Recife,260002,Goiana ¿ Timbaúba,4,Mata Pernambucana,13,Mata Setentrional Pernambucana,16308,2616308,Vicência
+26,Pernambuco,2601,Recife,260005,Vitória de Santo Antão,4,Mata Pernambucana,14,Vitória de Santo Antão,16407,2616407,Vitória de Santo Antão
+26,Pernambuco,2601,Recife,260003,Palmares,4,Mata Pernambucana,15,Mata Meridional Pernambucana,16506,2616506,Xexéu
